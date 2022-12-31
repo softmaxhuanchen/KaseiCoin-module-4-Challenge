@@ -14,25 +14,27 @@
 ### 1. Deploy the crowdsale with Remix, MetaMask, and Ganache.
 
 #### Beneficial Address
-![Screenshot](screenshots/MetamaskAccount2.png)
+<img src="screenshots/MetamaskAccount2.png" alt="drawing" width="200"/>
 
 #### Investor Address
-![Screenshot](screenshots/MetamaskAccount3.png)
+<img src="screenshots/MetamaskAccount3.png" alt="drawing" width="200"/>
 
 #### Accounts on Ganache
 ![Screenshot](screenshots/ganacheaccounts.png)
 
 ### 2. Deploy contracts 
 #### Metamask asks to confirm the transaction
-![Screenshot](screenshots/metamaskdeployerconfirmation.png)
+<img src="screenshots/metamaskdeployerconfirmation.png" alt="drawing" width="200"/>
+
 #### Contract deployed
 ![Screenshot](screenshots/Deployerdeployed.png)
 #### KaseiCoinCrowdsale and KaseiCoin added to remix
-![Screenshot](screenshots/test.png)
+![Screenshot](screenshots/Test.png)
 
 ### 3. Test to buy 10 Tokens
 #### Metamask asks to confirm the transaction
-![Screenshot](screenshots/metamaskdeployerconfirmation.png)
+<img src="screenshots/metamaskdeployerconfirmation.png" alt="drawing" width="200"/>
+
 #### Investor account balance 10, total supply 10 tokens
 ![Screenshot](screenshots/bottokens.png)
 #### Wei raised 10
